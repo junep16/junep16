@@ -1,7 +1,7 @@
-## <div align="center">안녕하세요! 👋 </div>  
+## <div align="left">안녕하세요! 👋 </div>  
   
 
-**<div align="center">
+**<div align="left">
 오늘보다 내일을 더 기대하는 FE 박지윤입니다</div>**  
   
 
